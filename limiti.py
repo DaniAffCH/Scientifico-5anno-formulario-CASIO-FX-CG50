@@ -1,0 +1,2 @@
+print("lim(f(x)+g(x)) = lim f(x) + lim g(x), una costante può uscire dal limite\n\nFORME INDETERMINATE:\n+inf -inf; inf*0; inf/inf; 0/0; 1^inf; 0^0; inf^0 ")
+print("Gerarchia degli infiniti: (log[a]x)^a < x^b < b^x\nAsintoti obliqui:\nm=lim[x->inf](f(x)/x)\nq=lim[x->inf](f(x)-mx)")
