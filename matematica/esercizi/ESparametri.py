@@ -1,0 +1,2 @@
+print("Trovare i valori di A e B ...\nSe chiede verifica CONTINUITA in xo:\nTrovo uno dei due param. o uno in funzione dell'altro\n- lim[x->xo-]f(x) = lim[x->xo+]g(x)")
+print("\n\nSe chiede verifica DERIVABILITA in xo:\nTrovo uno dei due param. o uno in funzione dell'altro\n- facendo il lim[x->xo-]f(x) = lim[x->xo+]g(x)\n- eguaglio le derivate e sostituisco quello trovato prima\n- sostituisco xo nelle derivate (dopo calcolate)")
