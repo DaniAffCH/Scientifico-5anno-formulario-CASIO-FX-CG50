@@ -1,0 +1,1 @@
+print("Equazione della tangente nel punto xo\n- vedere in quale delle due funz. appartiene il punto xo\n- f(x) è la funz a cui appartiene xo\n  y - f(xo) = D[f(xo)](x - xo)")
