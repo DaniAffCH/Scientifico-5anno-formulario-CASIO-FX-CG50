@@ -17,4 +17,4 @@ print("integrale((f(x)^a)*f'(x) dx)=(f(x)^(a+1))/(a+1) con a=!1\nintegrale(f'(x)
 print("grado num< ed è la derivata del den\nintegrale(f'(x)/f(x) dx)=ln(|f(x)|)\ngrado num< con den di primo grado\nintegrale(1/(ax+b) dx)=1/a*ln(|ax+b|)")
 
 ### FORMULARIO - integrazione funzioni fratte due##
-print("grado num< con denominatore di secondo grado\n delta>0 cerco A e B\n (px+q)/(ax^2+bx+c)=A/(a(x-x[1]))+B/(x-x[2])\n delta=0 cerco A e B\n (px+q)/(ax^2+bx+c)=A/(a(x-x[1]))+B/(x-x[1])^2\n delta<0 con p=0\n integrale(1/(ax^2+bx+c) dx) trasformato in integrale(f'(x)/(k^2+f(x)^2) dx)=1/k*arctan(f(x)/k)\n delta<0 con p=!0\n (px+q)/(ax^2+bx+c) trasformato in r*integrale((2ax+b)/(ax^2+bx+c) dx)+s*integrale(1/(ax^2+bx+c) dx)")
+print("grado num< con denominatore di secondo grado\n delta>0 cerco A e B\n(px+q)/(ax^2+bx+c)=A/(a(x-x[1]))+B/(x-x[2])\ndelta=0 cerco A e B\n(px+q)/(ax^2+bx+c)=A/(a(x-x[1]))+B/(x-x[1])^2\ndelta<0 con p=0\nintegrale(1/(ax^2+bx+c) dx) trasformato in integrale(f'(x)/(k^2+f(x)^2) dx)=1/k*arctan(f(x)/k)\ndelta<0 con p=!0\n(px+q)/(ax^2+bx+c) trasformato in r*integrale((2ax+b)/(ax^2+bx+c) dx)+s*integrale(1/(ax^2+bx+c) dx)")
